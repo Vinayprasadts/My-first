@@ -1,1 +1,1 @@
-print("Hello world from master")
+print("Hello world from master");
